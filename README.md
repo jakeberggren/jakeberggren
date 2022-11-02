@@ -1,6 +1,4 @@
 <!--
-**jakeberggren/jakeberggren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,26 +11,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👨‍💻 Jakob Berggren
+<h1 align='center'>Hi! 👋 I'm Jakob</h1>
 
-**'Student (Industrial Engineering and Management - Masters in Computer Science)'**
+<p align='center'>I'm a soon to be engineer currently persuing a Masters degree in Computer Science specialized in Machine Learning and AI. 
+Here you can find final solutions to laborations in various university courses, online courses and personal side projects. <br>Check out my repo's below!</p>
 
-Hi! Welcome to my GitHub page. I am a 4th year Master in Science student currently persuing a Masters degree in Computer Science and Machine Learning and AI. Here you can find final solutions to labs in various courses I am taking during my Masters as well as som personal side projects.
+<div align='center'>
+  <a href="https://www.linkedin.com/in/jakob-berggren/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+</div>
 
-## 📫 Contact
+---
 
-## 🛠 Tools and Frameworks
+<h2 align='center'>🛠️ Tools and Frameworks</h2>
+<div align='center'>
+<img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+<img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
 
-### 💻 Programming Languages
-
-### 🧰 Frameworks
-
-### 🌱 Currently learning
-
-## 📘 Courses I am currently attending
-
-## 📕 Courses I have finished
-
-## 🔭 Current Side Projects
-
-## 🔮 Stats
+#
