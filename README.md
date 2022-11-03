@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <h1 align='center'>Hi! 👋 I'm Jakob</h1>
 
-<p align='center'>I'm a soon to be engineer currently persuing a Masters degree in Computer Science specialized in Machine Learning and AI. 
+<p align='center'>I'm a soon to be engineer currently pursuing a Masters degree in Computer Science specialized in Machine Learning and AI. 
 Here you can find final solutions to laborations in various university courses, online courses and personal side projects. <br>Check out my repo's below!</p>
 
 <div align='center'>
