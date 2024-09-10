@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <h1 align='center'>Hi! 👋 I'm Jakob</h1>
 
-<p align='center'>Fullstack Engineer | IT-Consultant @ HiQ | Currently developing my skills in Fullstack and AI</p>
+<p align='center'>Fullstack Engineer | Consultant @ HiQ | Currently developing my skills in Fullstack and AI</p>
 
 <div align='center'>
   <a href="https://www.linkedin.com/in/jakob-berggren/" target="_blank">
